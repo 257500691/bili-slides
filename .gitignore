@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+libs/
+
+# 运行产物
+slides_out/
+slides_collection/
+_slides/
+_parts/
+_video/
+*.pdf
+
+# 媒体文件
+*.mp4
+*.mkv
+*.flv
+*.webm
+*.m4s
+*.ts
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
